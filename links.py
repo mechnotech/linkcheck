@@ -1,0 +1,2 @@
+LINKS = {}
+FOREIGN_LINKS = {}
